@@ -21,17 +21,17 @@ This scaffold provides authentication and registration endpoints using JWT for s
 
 ## Installation
 1. Clone the repository:
-    ```bash
+```bash
     git clone https://github.com/yourusername/yourproject.git
     cd yourproject
  ```
 
 2. Install dependencies:
-    ```bash
+```bash
     npm install
  ```
 
 3. Set up your environment variables in a .env file:
-    ```bash
+```bash
     touch .env
  ```
